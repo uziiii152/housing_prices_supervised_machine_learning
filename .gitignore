@@ -1,0 +1,27 @@
+.ipyn_checkpoints
+Dminiconda_storageenvs
+test.csv
+train.csv
+D:\machine-learning-setup-cern-workshop\hsf_jet_challenge\data
+D:\machine-learning-setup-cern-workshop\hsf_jet_challenge\outputs
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python caches
+__pycache__/
+*.py[cod]
+*~
+
+# Data and large files (just in case)
+*.zip
+*.csv
+*.root
+*.h5
+*.parquet
+
+# Heavy data arrays and models
+*.npz
+*.pt
+*.pkl
