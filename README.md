@@ -37,13 +37,5 @@ We are testing seven distinct model types on our housing data:
 * Python 3.10 or higher
 * Jupyter Notebook or VS Code
 
-## 📅 Daily Progress Log
 
-| Day | Goal | Status |
-| :--- | :--- | :--- |
-| **Day 1** | Setup data and code Linear/Polynomial Regressions | 🔄 In Progress |
-| **Day 2** | Code Decision Trees and tune SVM boundaries | ⏳ Upcoming |
-| **Day 3** | Build CNN and RNN architectures for pricing data | ⏳ Upcoming |
-| **Day 4** | Implement basic Transformer layers for GenAI | ⏳ Upcoming |
-| **Day 5** | Compare mathematical results and error metrics | ⏳ Upcoming |
 
